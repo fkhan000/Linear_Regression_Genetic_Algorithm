@@ -11,3 +11,7 @@ the linear regression model performs nearly just as well with 80% of the trainin
 the california housing dataset, is too simple and so the model doesn't need that much data to figure out the relationships between the labels and the
 features. Unfortunately, because of this, I can't be certain that the GA regression model performs better than the linear regression model
 when there's very little data available. I first need to find a harder dataset. 
+
+
+
+<img width="392" alt="Screen Shot 2022-12-27 at 11 33 41 AM" src="https://user-images.githubusercontent.com/78983433/209695013-0df89ef5-53db-4615-b31d-57a1d6996afa.png">
